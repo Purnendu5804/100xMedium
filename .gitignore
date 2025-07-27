@@ -1,4 +1,4 @@
-/server/.env
+/server.env
 /server/wrangler.jsonc
 
 /common/node_modules
