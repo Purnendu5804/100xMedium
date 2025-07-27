@@ -1,2 +1,5 @@
-/backend/.env
-/backend/wrangler.jsonc
+/server/.env
+/server/wrangler.jsonc
+
+/common/node_modules
+/common/dist
