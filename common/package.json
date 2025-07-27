@@ -1,5 +1,17 @@
 {
   "dependencies": {
     "zod": "^4.0.8"
-  }
+  },
+  "name": "@purnendutiwari/100xmedium",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
 }
