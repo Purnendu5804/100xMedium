@@ -3,3 +3,5 @@
 
 /common/node_modules
 /common/dist
+
+/server/.env
